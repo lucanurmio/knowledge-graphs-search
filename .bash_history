@@ -25,3 +25,24 @@ git status
 git commit -m 'Moved code to src folder'
 git push
 git pull
+git status
+git pull
+ls
+git pull
+git clone git@github.com:lucanurmio/knowledge-graphs-search.git
+ls
+
+git clone git@github.com:lucanurmio/knowledge-graphs-search.git
+ls
+git config -- user.name "lucanurmio"
+ls
+git config --global user.name "lucanurmio"
+git config --global user.email luca.nurmio.001@student.uni.lu
+git clone https://github.com/lucanurmio/knowledge-graphs-search.git
+ls
+git status
+git status
+git add .
+git status
+git commit -m 'Added an unfinished benchmark notebook'
+git push
