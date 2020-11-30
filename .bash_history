@@ -46,3 +46,13 @@ git add .
 git status
 git commit -m 'Added an unfinished benchmark notebook'
 git push
+git status
+git add .
+git status
+git commit -m 'Produced benchmark results'
+git push
+git status
+ls
+status
+git status
+git status
