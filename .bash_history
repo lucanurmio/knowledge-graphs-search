@@ -56,3 +56,20 @@ ls
 status
 git status
 git status
+git status
+git add .
+git status
+git commit -m 'Did points 1-4 from 17 Nov ToDo List'
+git push
+git stash
+git status
+git reset --soft HEAD~1
+git status
+git stash
+git status
+git pull
+git stash pop
+git add .
+git status
+git commit -m 'Did points 1-4 from 17 Nov ToDo List'
+git push
