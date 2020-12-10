@@ -73,3 +73,11 @@ git add .
 git status
 git commit -m 'Did points 1-4 from 17 Nov ToDo List'
 git push
+ls
+git status
+git status
+git restore .
+git status
+git pull
+git status
+git status
