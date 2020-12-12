@@ -81,3 +81,8 @@ git status
 git pull
 git status
 git status
+git status
+git add .
+git commit -m 'Optimised search function, finalising 2hop search'
+git push
+git status
