@@ -86,3 +86,9 @@ git add .
 git commit -m 'Optimised search function, finalising 2hop search'
 git push
 git status
+git status
+git add .
+git commit -m 'Completed 2hop search algorithm and benchmarks'
+git push
+git status
+git status
