@@ -13,7 +13,41 @@ For the time being, the full yagoFactsCleaned.csv file used in this project can 
 Answering Complex Questions by Joining Multi-Document Evidence with Quasi Knowledge Graphs. SIGIR 2019: 105-114
 [2]     Gjergji Kasneci, Fabian M. Suchanek, Georgiana Ifrim, Maya Ramanath, Gerhard Weikum:
 NAGA: Searching and Ranking Knowledge. 
+[3] Report from Dagstuhl Seminar 18371 Knowledge Graphs: New Directions for Knowledge Representation on the Semantic Web
 
+## Introduction
+
+#Refer to Dagstuhl seminar[3]
+
+Today, the World Wide Web is evolving in terms of the Knowledge content at an unimaginable rate. 
+Despite of this so many approaches developed in the past decades make the assumption that knowledge on the web, or elsewhere, 
+is just a static thing. New methods, technologies and standards
+that we produce, or propose, need to start from the assumption that everything is
+dynamic, and build on that, rather than ignoring it and then potentially trying to cover it by
+add-ons at the end. 
+
+Knowledge Graphs have an important role in organizing and making information more broadly
+available to people and machines. Although there are more and more efforts to build knowledge graphs 
+that complement the “mainstream” KGs such as DBpedia and Wikidata, and a plethora of work that try to improve
+those knowledge graphs in various directions (e.g., adding missing pieces of information, or
+flagging incorrect axioms), there is a growing need to define the standards for an evaluation, and most importantly how to periodically update. For instance, Yuqing Gao from Microsoft pointed out their challenge of having a real-time knowledge graph, but with archiving, which
+is still a research challenge at Microsoft. Jamie Taylor of Google also acknowledged the long
+term evolution of the Google Knowledge Graph as one of their main challenges. The IBM
+Watson group is also struggling with similar challenges, although they claim to take a more
+dynamic approach, not focusing on one global knowledge graph, but a framework for building
+domain specific knowledge graphs, including knowledge discovery and analysis of change
+effects. Thus, their main struggles include modelling and analysing changing information
+and incrementally updating global knowledge on horizontally scaled storage solutions.
+
+Studying how knowledge graphs (KG) may capture the evolutionary nature of knowledge is a
+critical need that the community must address. In this report, we detail a motivating
+use-case which shows how importance it is to constantly evolve the KGs to address the 
+modern requirements.
+
+The rest of the chapter is organized as follows. Section xx briefly explores related
+work that we may use as as starting points for further studying evolving knowledge graphs.
+Section xx describes our use-cases for showing how important it is to evolve the knowledge graphs, as identified during this
+Dagstuhl seminar[3]. Section xx presents the experiments that we counducted during the course of this project. Finally, in Section xx, we summarize and conclude.
 
 
 ### TODO:
