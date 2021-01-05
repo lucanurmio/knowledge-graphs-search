@@ -92,3 +92,12 @@ git commit -m 'Completed 2hop search algorithm and benchmarks'
 git push
 git status
 git status
+git status
+git restore .
+git status
+git status
+git pull
+git status
+git pull
+git status
+git status

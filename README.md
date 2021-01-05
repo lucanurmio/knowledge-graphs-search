@@ -1,6 +1,9 @@
 # knowledge-graphs-search
-Files related to the BSP1 of which the ultimate aim is to retrieve relevant search results from different knowledge graphs.
-yagoFactsSearchEngine.py loads Yago facts from a CSV file onto a pandas dataframe, takes a list as query and returns the most relevant rows.
+Files related to the BSP1 of which the ultimate aim is to retrieve relevant search results from different knowledge graphs for question answering purposes.
+
+The results can be reproduced only using a cleaned version of the 'yagoFacts' file (see https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/research/yago-naga/yago/downloads) which has the csv file type. The sample yagoFactsCleaned.csv provided here represents a small subset of the file used and is not sufficient to reproduce the same results.
+
+For the time being, the full yagoFactsCleaned.csv file used in this project can be downloaded under https://www.dropbox.com/s/zd5hqqit1kmwd05/yagoFactsCleaned.csv?dl=0.
 
 
 ## Benchmark details
@@ -8,7 +11,8 @@ yagoFactsSearchEngine.py loads Yago facts from a CSV file onto a pandas datafram
 ## References
 [1]     Xiaolu Lu, Soumajit Pramanik, Rishiraj Saha Roy, Abdalghani Abujabal, Yafang Wang, Gerhard Weikum:
 Answering Complex Questions by Joining Multi-Document Evidence with Quasi Knowledge Graphs. SIGIR 2019: 105-114
-
+[2]     Gjergji Kasneci, Fabian M. Suchanek, Georgiana Ifrim, Maya Ramanath, Gerhard Weikum:
+NAGA: Searching and Ranking Knowledge. 
 
 
 
